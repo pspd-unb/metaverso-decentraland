@@ -26,6 +26,7 @@ export enum EntityNames {
   FaixaAmarela_2 = "FaixaAmarela_2",
   FaixaAmarela_3 = "FaixaAmarela_3",
   FaixaAmarela_4 = "FaixaAmarela_4",
+  FaixaAmarela_5 = "FaixaAmarela_5",
   Floor___Yellow_10 = "Floor - Yellow_10",
   Floor___Yellow_11 = "Floor - Yellow_11",
   Floor___Yellow_12 = "Floor - Yellow_12",
@@ -59,9 +60,9 @@ export enum EntityNames {
   Light_Green_Poplars = "Light Green Poplars",
   Outdoor_Table = "Outdoor Table",
   Outdoor_Table_2 = "Outdoor Table_2",
+  Robotik_arm_glb = "Robotik_arm.glb",
   TreeFir_01_glb = "TreeFir_01.glb",
   TreeFir_01_glb_2 = "TreeFir_01.glb_2",
   Wall___PlainBlue = "Wall - PlainBlue",
   Wooden_Door = "Wooden Door",
-  Wooden_Door_2 = "Wooden Door_2",
 } 
